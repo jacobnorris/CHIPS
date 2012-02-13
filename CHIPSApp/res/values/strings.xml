@@ -2,4 +2,19 @@
 <resources>
     <string name="hello">Hello World, CHIPSAppActivity!</string>
     <string name="app_name">CHIPSApp</string>
+    
+    <string name="Shopping_Lists">Shopping Lists</string>
+    <string name="Calendar">Calendar</string>
+    <string name="Inventory">Inventory</string>
+    <string name="Preferences">Preferences</string>
+    <string name="Statistics">Statistics</string>
+    
+    <string name="Shopping_Lists_Header">Your Shopping List:</string>
+    <string name="Calendar_Header">Your Calendar:</string>
+    <string name="Inventory_Header">Your Current Inventory:</string>
+    <string name="Preferences_Header">Your Preferences:</string>
+    <string name="Statistics_Header">Your Statistics:</string>
+    
+    <string name="Back">Back</string>
+    
 </resources>

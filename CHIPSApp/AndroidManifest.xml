@@ -13,6 +13,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ShoppingLists">
+        </activity>
+        <activity android:name=".Calendar">
+        </activity>
+        <activity android:name=".Inventory">
+        </activity>
+        <activity android:name=".Preferences">
+        </activity>
+        <activity android:name=".Statistics">
+        </activity>
 
     </application>
 </manifest>
